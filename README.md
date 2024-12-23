@@ -1,2 +1,1 @@
-[word2vec](/word2vec.ipynb) - Efficient Estimation of Word Representations in
-Vector Space, https://arxiv.org/abs/1301.3781.
+[word2vec](/word2vec.ipynb) - Distributed Representations of Words and Phrases and their Compositionality, https://arxiv.org/abs/1310.4546.
